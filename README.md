@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0891b2&height=220&section=header&text=Hi,%20I'm%20%E9%98%BF%E6%B2%BB&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=%E7%94%A8%E4%BB%A3%E7%A0%81%E6%90%AD%E5%BB%BA%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%9C%E8%A5%BF&descSize=18&descAlignY=60" alt="阿治的 GitHub 主页横幅" />
+<img src="./assets/profile-banner.svg" alt="阿治的 GitHub 主页横幅" />
 
 ### 你好，我是六七，也可以叫我阿治 👋
 
@@ -47,8 +47,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xiaozhibro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=cn" alt="GitHub 统计" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhibro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=cn" alt="常用语言" />
+![GitHub followers](https://img.shields.io/github/followers/xiaozhibro?style=flat-square&label=Followers&color=0891b2)
+![Awesome stars](https://img.shields.io/github/stars/xiaozhibro/awesome?style=flat-square&label=Awesome%20stars&color=7c3aed)
 
 <img src="https://streak-stats.demolab.com?user=xiaozhibro&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="GitHub 连续贡献统计" />
 
