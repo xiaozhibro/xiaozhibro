@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset=".52" stop-color="#171A3A"/>
+      <stop offset="1" stop-color="#063B4B"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="760" y1="40" x2="1120" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity=".09"/>
+    </pattern>
+    <filter id="blur" x="715" y="-90" width="610" height="500" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="58"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <ellipse cx="1015" cy="146" rx="215" ry="124" fill="url(#glow)" fill-opacity=".42" filter="url(#blur)"/>
+  <path d="M0 257C180 222 260 307 452 270s276-56 416-18 219 35 332-15" stroke="#67E8F9" stroke-opacity=".24" stroke-width="2"/>
+  <path d="M0 274C177 239 269 324 455 287s273-55 411-19 222 36 334-13" stroke="#A78BFA" stroke-opacity=".2" stroke-width="2"/>
+  <circle cx="1012" cy="146" r="92" stroke="#C4B5FD" stroke-opacity=".62" stroke-width="1.5"/>
+  <circle cx="1012" cy="146" r="67" stroke="#67E8F9" stroke-opacity=".62" stroke-width="1.5" stroke-dasharray="4 8"/>
+  <path d="m980 126-20 20 20 20m64-40 20 20-20 20m-25-55-17 70" stroke="#F8FAFC" stroke-opacity=".82" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1012" cy="146" r="4" fill="#67E8F9"/>
+  <text x="76" y="125" fill="#A5F3FC" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="18" font-weight="600" letter-spacing="4">BUILDING THINGS WITH CURIOSITY</text>
+  <text x="72" y="192" fill="#F8FAFC" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="58" font-weight="700">Hi, I'm 阿治</text>
+  <text x="76" y="235" fill="#CBD5E1" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="21">前端 · AI · 游戏与交互设计</text>
+  <rect x="76" y="260" width="112" height="4" rx="2" fill="#22D3EE"/>
+  <rect x="196" y="260" width="48" height="4" rx="2" fill="#A78BFA"/>
+</svg>
